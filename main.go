@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, World!")
+	fmt.Println("TM1 DevOps Steuerung per RestAPI!")
 }
